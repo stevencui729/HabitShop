@@ -1,0 +1,3 @@
+rootProject.name = 'HabitShop'
+
+include ':app'
